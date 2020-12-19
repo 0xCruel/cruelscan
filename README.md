@@ -1,0 +1,2 @@
+# cruelscan
+Simple port scanner 
